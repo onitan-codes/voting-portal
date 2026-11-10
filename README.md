@@ -27,9 +27,16 @@ Do not use this page to run an election, and do not enter real work emails, veri
 
 | File | Description |
 | --- | --- |
+| `index.html` | GitHub Pages entry page that opens the demo. |
 | `nannm.html` | Page structure, embedded CSS, and demonstration interactions. |
 | `NANNM.jpg` | Logo image displayed by the page. |
 
 ## License
 
 No license has been provided. Contact the project owner before reusing or redistributing the work.
+
+## Live demo
+
+[Open the GitHub Pages demo](https://onitan-codes.github.io/voting-portal/).
+
+The root page opens the demonstration at nannm.html.
